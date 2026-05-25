@@ -1,4 +1,4 @@
-# Deterministic Spatial Engine
+# Deterministic Spatial Intelligence Engine
 **DigiSim PS-1 – Udyam’26**
 
 A digital hardware implementation that determines the **closest pair of 2-D Cartesian points** stored in memory.  
